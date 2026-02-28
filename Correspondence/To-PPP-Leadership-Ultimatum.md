@@ -9,7 +9,7 @@ The security of the Republic of Korea and the safety of United States Forces Kor
 We officially declare that our collective mandate is WITHHELD. To qualify for our votes, the PPP must adopt the "4 Pillars of Security Integrity" as an official party platform. We will audit your candidate nominations and policy pledges until election day.
 
 Be advised: All our demands and your response status are being recorded in real-time and shared with the U.S. House Select Committee on the CCP at:
-👉 [URL](github.com/rosenkreuzerKOR/ross-cross-security-audit-63)
+👉 [URL](https://github.com/rosenkreuzerKOR/ross-cross-security-audit-63)
 
 The world is watching whether the PPP stands for the ROK-US Value Alliance or for political expediency. We do not grant our mandate to those who ignore the guardians of our freedom.
 
