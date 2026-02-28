@@ -37,7 +37,7 @@ Access the full text of our communications below:
      
 * **[Manifestos](./Manifestos):** Full text of the "No Vote Without Representation" manifesto (EN/KO).
 * **[Correspondence - US Congress](./Correspondence/To-Chairman-John-Moolenaar.md):** Formal appeal sent to Chairman John Moolenaar.
-* **[Correspondence - PPP Leadership](./Correspondence/to-PPP-Leadership.md):** Formal ultimatum sent to the People Power Party.
+* **[Correspondence - PPP Leadership](./Correspondence/To-PPP-Leadership.md):** Formal ultimatum sent to the People Power Party.
 * **[Transparency Log](./Transparency-Log):** Time-stamped records of all transmissions and receipts.
      
 ---
