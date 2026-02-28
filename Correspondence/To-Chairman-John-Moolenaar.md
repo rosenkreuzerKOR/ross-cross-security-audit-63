@@ -9,7 +9,7 @@ Our initiative specifically focuses on the physical and digital security of Unit
 We have issued a formal ultimatum to the South Korean political leadership (People Power Party), demanding immediate legislative and administrative de-risking. Our mandate for the upcoming 2026 Local Elections is strictly contingent upon their commitment to these security pillars.
 
 All our demands and the response status of South Korean political leaders are being recorded for global transparency at:
-👉 [URL](github.com/rosenkreuzerKOR/ross-cross-security-audit-63)
+👉 [URL](https://github.com/rosenkreuzerKOR/ross-cross-security-audit-63)
 
 We request that the Select Committee monitors these developments, as the integrity of the ROK-US alliance is inseparable from the security of the local environments where our joint forces operate.
 
