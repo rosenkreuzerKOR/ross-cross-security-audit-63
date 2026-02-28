@@ -36,8 +36,8 @@ We demand that the 2026 Local Election platforms include the following:
 Access the full text of our communications below:
      
 * **[Manifestos](./Manifestos):** Full text of the "No Vote Without Representation" manifesto (EN/KO).
-* **[Correspondence - US Congress](./Correspondence/to-John-Moolenaar):** Formal appeal sent to Chairman John Moolenaar.
-* **[Correspondence - PPP Leadership](./Correspondence/to-PPP-Leadership):** Formal ultimatum sent to the People Power Party.
+* **[Correspondence - US Congress](./Correspondence/to-John-Moolenaar.md):** Formal appeal sent to Chairman John Moolenaar.
+* **[Correspondence - PPP Leadership](./Correspondence/to-PPP-Leadership.md):** Formal ultimatum sent to the People Power Party.
 * **[Transparency Log](./Transparency-Log):** Time-stamped records of all transmissions and receipts.
      
 ---
