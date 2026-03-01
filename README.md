@@ -19,6 +19,7 @@ This table tracks the responses of political leadership to our security demands.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **U.S. House Select Committee on CCP** | Chairman John Moolenaar | 2026-02-28 | **Sent** | [Awaiting] | - |
 | **People Power Party (PPP) Leadership** | Chairperson & Supreme Council | 2026-02-28 | **Sent** | **NONE** | [⚠️ High Risk] |
+| **People Power Party (PPP) Members of the National Assembly** | Kim Sang-hun et al | 2026-03-01 | **Sent** | **NONE** | [⚠️ High Risk] |
      
 ---
      
